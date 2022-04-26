@@ -224,7 +224,7 @@ h6{
 
 /* Home Page */
 #hero{
-    background-image: url('/images/pexels-freestocksorg-291762.jpg');
+    background-image: url('../images/pexels-freestocksorg-291762.jpg');
     height: 80vh;
     width: 100%;
     background-size: cover;
@@ -243,7 +243,7 @@ h6{
     color:#088178;
 }
 #hero button{
-    background-image: url('/images/splash3.png');
+    background-image: url('../images/splash3.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -403,7 +403,7 @@ color:#fff;
     align-items: center;
     text-align: center;
     flex-direction: column;
-    background-image: url('/images/banner1.jpg');
+    background-image: url('../images/banner1.jpg');
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -437,7 +437,7 @@ color:#fff;
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    background-image: url('/images/banner2.jpg');
+    background-image: url('../images/banner2.jpg');
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -445,7 +445,7 @@ color:#fff;
     padding:30px;
 }
 #sm-banner .banner-box2{
-    background-image: url('/images/banner3.jpg');
+    background-image: url('../images/banner3.jpg');
 }
 #sm-banner h4{
     color:#fff;
@@ -480,7 +480,7 @@ color:#fff;
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    background-image: url('/images/day3.jpg');
+    background-image: url('../images/day3.jpg');
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -489,10 +489,10 @@ color:#fff;
     margin-bottom:20px;
 }
 #banner3  .banner-box2{
-    background-image: url('/images/banner4.jpg');
+    background-image: url('../images/banner4.jpg');
 }
 #banner3  .banner-box3{
-    background-image: url('/images/banner5.jpg');
+    background-image: url('../images/banner5.jpg');
 }
 
 #banner3 h2{
@@ -512,7 +512,7 @@ color:#fff;
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url('/images/pexels-peter-olexa-4012966.jpg');
+    background-image: url('../images/pexels-peter-olexa-4012966.jpg');
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
@@ -616,7 +616,7 @@ footer .copyright{
 #page-header{
     background-image:linear-gradient(rgba(68, 68, 68, 0.589),
     rgba(8, 8, 8, 0.568)),
-    url('/images/banner8.jpg');
+    url('../images/banner8.jpg');
     width: 100%;
     height: 70vh;
     background-size: cover;
@@ -703,7 +703,7 @@ footer .copyright{
 #page-header.blog-header{
     background-image:linear-gradient(rgba(68, 68, 68, 0.589),
     rgba(8, 8, 8, 0.568)),
-    url('/images/banner10.jpg');
+    url('../images/banner10.jpg');
 }
 #blog{
     padding: 150px 150px 0 150px;
@@ -791,7 +791,7 @@ footer .copyright{
 #page-header.about-header{
     background-image:linear-gradient(rgba(68, 68, 68, 0.589),
     rgba(8, 8, 8, 0.568)),
-    url('/images/banner11.jpg');
+    url('../images/banner11.jpg');
 }
 #about-head{
     display: flex;
@@ -821,7 +821,7 @@ footer .copyright{
 #page-header.contact-header{
     background-image:linear-gradient(rgba(68, 68, 68, 0.589),
     rgba(8, 8, 8, 0.568)),
-    url('/images/banner12.jpg');
+    url('../images/banner12.jpg');
 }
 
 #contact-details{
